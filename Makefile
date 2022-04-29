@@ -2,4 +2,4 @@ CC = g++
 CFLAGS = 
 
 install:
-	$(CC) coolexample.cc -o $(prefix)/coolexample
+	$(CC) coolexample.cc -o $(prefix)/bin/coolexample
